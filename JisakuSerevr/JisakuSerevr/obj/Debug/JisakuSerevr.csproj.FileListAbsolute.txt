@@ -1,0 +1,8 @@
+D:\Samples\NewServer\JisakuSerevr\JisakuSerevr\bin\Debug\JisakuSerevr.exe
+D:\Samples\NewServer\JisakuSerevr\JisakuSerevr\bin\Debug\JisakuSerevr.pdb
+D:\Samples\NewServer\JisakuSerevr\JisakuSerevr\bin\Debug\KaymakNetwork.dll
+D:\Samples\NewServer\JisakuSerevr\JisakuSerevr\obj\Debug\JisakuSerevr.csproj.AssemblyReference.cache
+D:\Samples\NewServer\JisakuSerevr\JisakuSerevr\obj\Debug\JisakuSerevr.csproj.CoreCompileInputs.cache
+D:\Samples\NewServer\JisakuSerevr\JisakuSerevr\obj\Debug\JisakuSerevr.csproj.CopyComplete
+D:\Samples\NewServer\JisakuSerevr\JisakuSerevr\obj\Debug\JisakuSerevr.exe
+D:\Samples\NewServer\JisakuSerevr\JisakuSerevr\obj\Debug\JisakuSerevr.pdb
